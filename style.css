@@ -165,24 +165,6 @@ header {
   width: 20px;
 }
 
-.testimonial {
-  margin: 50px 0px;
-}
-
-.testimonial-heading {
-  text-align: center;
-  width: 90%;
-  margin: auto;
-}
-
-.testimonial-heading p {
-  color: #3f4b52;
-}
-
-.testimonial-heading span {
-  color: #fff;
-}
-
 .placement-container {
   display: flex;
   flex-wrap: wrap;
@@ -301,7 +283,7 @@ header {
   background-repeat: no-repeat;
   background-position: center;
   width: 100%;
-  margin: 200px 0px 50px 0px;
+  margin: 200px 0px 0px 0px;
   height: auto;
 }
 
